@@ -45,6 +45,7 @@
 
 `$ python3 scraper.py`
 
+
 * ( members.csv is default if you changed name use it )
 * Send Bulk sms To Collected Data 
 
@@ -53,3 +54,11 @@
 * Update Tool
 
 `$ python3 setup.py -u`
+
+    'ADD USER TO GROUP'
+    
+ $ python3 adder.py 
+ 
+ or
+ 
+ $ python3 adder.py members.csv
